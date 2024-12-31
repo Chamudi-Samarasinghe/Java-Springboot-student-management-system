@@ -14,7 +14,7 @@ A web-based application built to manage student data effectively. This system al
   - Spring Boot
   - Spring Data JPA
 - **Frontend**:
-  - Thymeleaf (or specify if another frontend technology was used)
+  - Thymeleaf 
 - **Database**:
   - MySQL
 - **Build Tool**:
